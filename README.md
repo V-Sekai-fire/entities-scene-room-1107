@@ -9,6 +9,7 @@ The project's main scene is the room: a glTF model of its walls and wallpaper, a
 ## Build and run
 
     git submodule update --init
+    godot --path . --import
     godot --path .
 
 ## Licence
